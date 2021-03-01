@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src=".github/logo.png" />
+  <img alt="Em Ação" title="Em Ação" src=".github/logo.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/emacao.png" width="100%">
+  <img alt="Projeto" src=".github/emacao.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -32,11 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+O "Em Ação" é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
