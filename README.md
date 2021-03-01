@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto" src=".github/emacao.png" width="100%">
+  <img alt="Projeto" src=".github/emacao1.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
