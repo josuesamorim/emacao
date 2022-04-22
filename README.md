@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O "Em Ação" é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
+Link do projeto em produção https://emacao.vercel.app/
+
 
 ## 🚀 Como executar
 
